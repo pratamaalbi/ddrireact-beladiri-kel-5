@@ -1,0 +1,7 @@
+{
+  "buildCommand": "vite build",
+  "outputDirectory": "dist",
+  "framework": "vite",
+  "ignoreCommand": "echo ''",
+  "devCommand": "vite"
+}
